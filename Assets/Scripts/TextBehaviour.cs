@@ -23,7 +23,7 @@ public class TextBehaviour : MonoBehaviour {
 
             else if (Input.GetKeyDown(KeyCode.S))
                 {
-            myText.text = "S Was pressed";
+            myText.text = "S Was pressed ok";
                 }
                     
        
